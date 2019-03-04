@@ -17,3 +17,9 @@ FILE working.cpp
 This file consist of all the working procedure of the lift system in the building.
 please review the code any positive criticism and any kind of improvement is appreciated .
 ==============
+
+==============
+FILE weight.h
+This file consist of weight feature of the lift system. Which is an important factor for proper working of the lift system.
+Please refer to the code if you wish to make some changes.
+==============
